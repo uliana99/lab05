@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/uliana99/lab05..svg?branch=master)](https://travis-ci.org/uliana99/lab05.)
+[![Build Status](https://travis-ci.org/uliana99/lab05.svg?branch=master)](https://travis-ci.org/uliana99/lab05)
 ## Laboratory work V
 
 Данная лабораторная работа посвещена изучению систем непрерывной интеграции на примере сервиса **Travis CI**
